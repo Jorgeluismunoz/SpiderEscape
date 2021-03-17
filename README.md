@@ -1,6 +1,6 @@
 # SpiderEscape
 
-This is a 2D game developed with GameMaker Studio 2 created as a final project for the GAME 108 course at Lake Washington Kirkland.
+This is a 2D game developed with GameMaker Studio 2 created as a final project for the GAME 108 course at Lake Washington Kirkland. The game is a demo that shows a level and consists of killing the spiders until you find the exit.
 
 [![SpiderEscape](http://img.youtube.com/vi/26Tbu1xVZD4/0.jpg)](http://www.youtube.com/watch?v=26Tbu1xVZD4)
 
