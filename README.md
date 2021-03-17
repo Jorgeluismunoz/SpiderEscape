@@ -1,2 +1,2 @@
-# SpiderSEsape
+# SpiderEscape
  GameMaker 
